@@ -1,6 +1,6 @@
 # 🌌 [Your Name] – Radio Astrophysicist
 
-Welcome to my personal website, hosted via GitHub Pages: **[https://your-username.github.io](https://your-username.github.io)**
+Welcome to my personal website, hosted via GitHub Pages: **[https://plimaye0329.github.io](https://plimaye0329.github.io)**
 
 I'm a researcher in **radio astronomy**, with a focus on [brief description: e.g., pulsar timing, interferometry, or fast radio bursts (FRBs)]. This site showcases my work, projects, and publications.
 
