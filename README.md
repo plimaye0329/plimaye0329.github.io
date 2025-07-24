@@ -18,7 +18,7 @@ I'm currently a research assistant at the Max Planck Institute for Radio Astrono
 
 ---
 
-
+- **📄 [Curriculum Vitae](cv)** – Download or view my academic CV
 
 The website includes:
 
