@@ -1,4 +1,4 @@
-# 🌌 [Your Name] – Radio Astrophysicist
+# 🌌 Pranav Limaye – Radio Astrophysicist
 
 Welcome to my personal website, hosted via GitHub Pages: **[https://plimaye0329.github.io](https://plimaye0329.github.io)**
 
@@ -8,18 +8,17 @@ I'm a researcher in **radio astronomy**, with a focus on [brief description: e.g
 
 ## 🔭 About Me
 
-I'm currently a [position, e.g., Postdoctoral Researcher / PhD Candidate] at [Institution], working with [Research Group / Collaborators]. My research interests include:
+I'm currently a research assistant at the Max Planck Institute for Radio Astronomy, working with Dr. Ramesh Karuppusamy and Dr. Ewan Barr. My research interests include:
 
-- 📡 Radio interferometry and high-resolution imaging
+
 - 🌀 Fast Radio Bursts (FRBs) and pulsar observations
+- 📡 High time resolution data processing
 - 🛰️ Telescope instrumentation and data pipelines
 - 🧠 Machine learning in astronomical data analysis
 
 ---
 
-## 📁 Website Sections
 
-Visit the live site here: [https://your-username.github.io](https://your-username.github.io)
 
 The website includes:
 
