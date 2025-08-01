@@ -1,0 +1,16 @@
+title: "Pranav Limaye"
+description: "Astrophysics | Radio Astronomy | Neutron Stars and FRBs ❤️"
+
+theme: minima
+baseurl: "" # leave empty for user.github.io
+url: "https://plimaye0329.github.io"
+
+# Navigation bar links
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
+  - contact.md
+
+# Optional social links
+email: limaye@mpifr-bonn.mpg.de
