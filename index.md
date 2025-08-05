@@ -14,4 +14,12 @@ Currently working on observational studies of fast radio bursts.
 - 📧 Email: limaye@mpifr-bonn.mpg.de  
 - 🌐 [GitHub](https://github.com/plimaye0329)
 
+---
+
+## 📄 [Curriculum Vitae](/cv.html)
+
+## 📚 [Publications](/publications.html)
+
+## ✉️ [Contact](/contact.html)
+
 Welcome to my academic website!
