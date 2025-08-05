@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/profile.jpg" alt="Profile photo" width="200" style="float: right; margin-left: 20px; border-radius: 10px;">
+<img src="/assets/profile.png" alt="Profile photo" width="200" style="float: right; margin-left: 20px; border-radius: 10px;">
 
 # Pranav Limaye
 
